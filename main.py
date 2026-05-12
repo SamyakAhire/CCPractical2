@@ -1,2 +1,2 @@
 name = input("Enter your Name: ")
-print(f"Hello {name}, From Repo https://github.com/SamyakAhire/CCPractical2")
+print(f"Hello {name}, We are using this Repo for reference code https://github.com/SamyakAhire/CCPractical2")
